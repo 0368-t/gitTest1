@@ -13,7 +13,7 @@ public class Teacher {
     }
 
     public void ok(){
-        System.out.println("是ok的!");
+        System.out.println("是ok的!不对不对");
     }
 
 }
